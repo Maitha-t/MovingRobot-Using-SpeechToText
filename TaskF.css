@@ -1,0 +1,34 @@
+body {
+			    font-family: arial;
+                background: linear-gradient(to left,#D8BFD8,#FAF0E6); 
+			} 
+           h2 {
+                font-size: 50px;
+                background: -webkit-linear-gradient(#FDF5E6, #F0FFFF);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                text-align: center; }
+			button {
+			    padding:20px;
+			    background-color:#D8BFD8;
+			    color: #FFFFFF;
+			    border: 0px;
+			    cursor:pointer;
+			    border-radius: 5px;
+                font-size: 15px;
+                display: block;
+                margin : 0 auto;	
+			}
+			#output {
+			    background-color:#F9F9F9;
+			    padding:10px;
+			    width: 100%;
+			    margin-top:20px;
+			    line-height:30px;
+			}
+			.hide {
+			    display:none;
+			}
+			.show {
+			    display:block;
+			}
